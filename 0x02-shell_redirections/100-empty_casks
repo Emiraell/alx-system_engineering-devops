@@ -1,0 +1,2 @@
+#!/bin/user
+find . -empty -printf "%f\n"
