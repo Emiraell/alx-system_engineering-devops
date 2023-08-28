@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # generating ssh code
 
-ssh-keygen -t rsa -b 4096 -f school -p betty
+ssh-keygen -b 4096 -f school -t rsa -N betty
