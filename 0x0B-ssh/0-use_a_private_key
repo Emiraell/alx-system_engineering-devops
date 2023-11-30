@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
-#using ssh to connect to server
+#!/usr/binenv bash
+# using ssh
 
-ssh ubuntu -i ~/.ssh/school
+ssh ubunbtu -i ~/.ssh/school
