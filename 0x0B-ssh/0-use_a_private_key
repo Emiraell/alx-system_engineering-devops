@@ -1,4 +1,4 @@
-#!/usr/binenv bash
-# using ssh
+#!/usr/bin/env bash
+# ssh to connect to your server using the private key
 
-ssh ubunbtu -i ~/.ssh/school
+ssh -i ~/.ssh/school ubuntu@100.25.211.19
