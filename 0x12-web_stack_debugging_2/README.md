@@ -1,1 +1,1 @@
-web_stack_debugging 2
+web stack debugging 2
